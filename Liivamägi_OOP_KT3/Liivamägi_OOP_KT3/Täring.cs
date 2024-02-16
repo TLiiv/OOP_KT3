@@ -68,9 +68,14 @@ namespace Liivamägi_OOP_KT3
             if(p2Result < p1Result) 
             {
                 TL_lblTulemus.Text = "Võitis Juku!";
-            }else if(p2Result > p1Result)
+                TL_lblJukuTulemus.ForeColor = Color.White;
+                TL_lblJukuTulemus.BackColor = Color.Teal;
+            }
+            else if(p2Result > p1Result)
             {
                 TL_lblTulemus.Text = "Võitis Peeter!";
+                TL_lblPeeterTulemus.ForeColor = Color.White;
+                TL_lblPeeterTulemus.BackColor = Color.Teal;
             }
             else
             {
@@ -84,6 +89,10 @@ namespace Liivamägi_OOP_KT3
         {
             TL_btnP1.Enabled = true;
             TL_startBtn.Enabled = false;
+            TL_lblJukuTulemus.ForeColor = Color.Teal;
+            TL_lblJukuTulemus.BackColor = Color.White;
+            TL_lblPeeterTulemus.ForeColor = Color.Teal;
+            TL_lblPeeterTulemus.BackColor = Color.White;
             ClearAllFields();
             
         }
