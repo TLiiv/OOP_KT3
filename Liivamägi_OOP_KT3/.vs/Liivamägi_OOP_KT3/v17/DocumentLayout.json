@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|c:\\progemine\\projektid\\narusberg oop kt3\\liivam\u00E4gi_oop_kt3\\liivam\u00E4gi_oop_kt3\\t\u00E4ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|solutionrelative:liivam\u00E4gi_oop_kt3\\t\u00E4ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|c:\\progemine\\projektid\\narusberg oop kt3\\liivam\u00E4gi_oop_kt3\\liivam\u00E4gi_oop_kt3\\t\u00E4ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|solutionrelative:liivam\u00E4gi_oop_kt3\\t\u00E4ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\liivam\u00E4gi_oop_kt3\\t\u00E4ring.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFC1861-C28D-4C13-B5AC-B7A557452756}|Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3.csproj|solutionrelative:liivam\u00E4gi_oop_kt3\\t\u00E4ring.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T\u00E4ring.cs",
+              "DocumentMoniker": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "RelativeDocumentMoniker": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "ToolTip": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "RelativeToolTip": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:55:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "T\u00E4ring.Designer.cs",
+              "DocumentMoniker": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.Designer.cs",
+              "RelativeDocumentMoniker": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.Designer.cs",
+              "ToolTip": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.Designer.cs",
+              "RelativeToolTip": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:29:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T\u00E4ring.cs [Design]",
+              "DocumentMoniker": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "RelativeDocumentMoniker": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs",
+              "ToolTip": "C:\\Progemine\\Projektid\\Narusberg OOP KT3\\Liivam\u00E4gi_OOP_KT3\\Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs [Design]",
+              "RelativeToolTip": "Liivam\u00E4gi_OOP_KT3\\T\u00E4ring.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:01:21.761Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

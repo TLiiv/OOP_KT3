@@ -1,0 +1,10 @@
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\bin\Debug\Liivamägi_OOP_KT3.exe.config
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\bin\Debug\Liivamägi_OOP_KT3.exe
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\bin\Debug\Liivamägi_OOP_KT3.pdb
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.csproj.AssemblyReference.cache
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.Properties.Resources.resources
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.Täring.resources
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.csproj.GenerateResource.cache
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.csproj.CoreCompileInputs.cache
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.exe
+C:\Progemine\Projektid\Narusberg OOP KT3\Liivamägi_OOP_KT3\Liivamägi_OOP_KT3\obj\Debug\Liivamägi_OOP_KT3.pdb
