@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Täring));
             this.TL_startBtn = new System.Windows.Forms.Button();
             this.TL_btnP1 = new System.Windows.Forms.Button();
             this.TL_btnP2 = new System.Windows.Forms.Button();
@@ -43,6 +44,10 @@
             this.Tl_lblPeeterPunktid = new System.Windows.Forms.Label();
             this.TL_lblP1 = new System.Windows.Forms.Label();
             this.TL_lblP2 = new System.Windows.Forms.Label();
+            this.TL_imgJuku = new System.Windows.Forms.PictureBox();
+            this.TL_imgPeeter = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.TL_imgJuku)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TL_imgPeeter)).BeginInit();
             this.SuspendLayout();
             // 
             // TL_startBtn
@@ -220,12 +225,34 @@
             this.TL_lblP2.Text = "Teine mängija Peeter";
             this.TL_lblP2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // TL_imgJuku
+            // 
+            this.TL_imgJuku.Image = ((System.Drawing.Image)(resources.GetObject("TL_imgJuku.Image")));
+            this.TL_imgJuku.Location = new System.Drawing.Point(159, 74);
+            this.TL_imgJuku.Name = "TL_imgJuku";
+            this.TL_imgJuku.Size = new System.Drawing.Size(150, 170);
+            this.TL_imgJuku.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.TL_imgJuku.TabIndex = 15;
+            this.TL_imgJuku.TabStop = false;
+            // 
+            // TL_imgPeeter
+            // 
+            this.TL_imgPeeter.Image = ((System.Drawing.Image)(resources.GetObject("TL_imgPeeter.Image")));
+            this.TL_imgPeeter.Location = new System.Drawing.Point(580, 74);
+            this.TL_imgPeeter.Name = "TL_imgPeeter";
+            this.TL_imgPeeter.Size = new System.Drawing.Size(150, 170);
+            this.TL_imgPeeter.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.TL_imgPeeter.TabIndex = 16;
+            this.TL_imgPeeter.TabStop = false;
+            // 
             // Täring
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 22F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(882, 740);
+            this.ClientSize = new System.Drawing.Size(882, 715);
+            this.Controls.Add(this.TL_imgPeeter);
+            this.Controls.Add(this.TL_imgJuku);
             this.Controls.Add(this.TL_lblP2);
             this.Controls.Add(this.TL_lblP1);
             this.Controls.Add(this.Tl_lblPeeterPunktid);
@@ -245,6 +272,8 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Täring";
             this.Text = "Täring";
+            ((System.ComponentModel.ISupportInitialize)(this.TL_imgJuku)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TL_imgPeeter)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -266,6 +295,8 @@
         private System.Windows.Forms.Label Tl_lblPeeterPunktid;
         private System.Windows.Forms.Label TL_lblP1;
         private System.Windows.Forms.Label TL_lblP2;
+        private System.Windows.Forms.PictureBox TL_imgJuku;
+        private System.Windows.Forms.PictureBox TL_imgPeeter;
     }
 }
 

@@ -40,6 +40,8 @@ namespace Liivamägi_OOP_KT3
             InitializeComponent();
             TL_btnP1.Enabled = false;
             TL_btnP2.Enabled = false;
+            //TL_imgJuku.Visible = false;
+            //TL_imgPeeter.Visible = false;
         }
 
         private void TL_btnP1_Click(object sender, EventArgs e)
@@ -87,6 +89,8 @@ namespace Liivamägi_OOP_KT3
 
         private void TL_startBtn_Click(object sender, EventArgs e)
         {
+            //TL_imgJuku.Visible = true;
+            //TL_imgPeeter.Visible = true;
             TL_btnP1.Enabled = true;
             TL_startBtn.Enabled = false;
             TL_lblJukuTulemus.ForeColor = Color.Teal;
